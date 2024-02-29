@@ -78,8 +78,8 @@
 // alert(age)
 
 //question #02;
-// var no =" 14";
-// alert("you have visited this site"+no +" times")
+var no =" 14";
+alert("you have visited this site"+no +" times")
 
 //question #03;
 // var birth =" 2006"
